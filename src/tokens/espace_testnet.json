@@ -1,0 +1,42 @@
+[
+  {
+    "chainId": 71,
+    "address": "0x7d682e65efc5c13bf4e394b8f376c48e6bae0355",
+    "symbol": "USDT",
+    "name": "Faucet USDT",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+  },
+  {
+    "chainId": 71,
+    "address": "0x2ed3dddae5b2f321af0806181fbfa6d049be47d8",
+    "symbol": "WCFX",
+    "name": "Wrapped CFX",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/conflux-network-cfx-logo.png"
+  },
+  {
+    "chainId": 71,
+    "address": "0x49916ba65d0048c4bbb0a786a527d98d10a1cd2d",
+    "symbol": "PPI",
+    "name": "SwappiSwap Token",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1508440036240416780/SPvUkCGW_400x400.jpg"
+  },
+  {
+    "chainId": 71,
+    "address": "0xcd71270f82f319e0498ff98af8269c3f0d547c65",
+    "symbol": "ETH",
+    "name": "Faucet ETH",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+  },
+  {
+    "chainId": 71,
+    "address": "0x54593e02c39aeff52b166bd036797d2b1478de8d",
+    "symbol": "BTC",
+    "name": "Faucet BTC",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+  }
+]

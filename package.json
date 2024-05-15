@@ -1,0 +1,27 @@
+{
+  "name": "@piggy-dex/token-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf build && mkdir -p build && node src/buildList.js > build/all.json && node src/buildVerifiedList.js > build/verified.json"
+  },
+  "repository": {
+    "url": "https://github.com/PiggyDex/token-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "keywords": [
+    "uniswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "files": [
+    "build"
+  ],
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
